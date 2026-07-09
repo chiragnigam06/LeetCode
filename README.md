@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/chiragnigam06/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/chiragnigam06/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/chiragnigam06/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/chiragnigam06/LeetCode/tree/master/0016-3sum-closest) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chiragnigam06/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chiragnigam06/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/chiragnigam06/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/chiragnigam06/LeetCode/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/chiragnigam06/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/chiragnigam06/LeetCode/tree/master/0016-3sum-closest) |
 ## Union-Find
 |  |
 | ------- |
