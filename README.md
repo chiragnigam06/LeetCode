@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chiragnigam06/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chiragnigam06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/chiragnigam06/LeetCode/tree/master/0012-integer-to-roman) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/chiragnigam06/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chiragnigam06/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/chiragnigam06/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/chiragnigam06/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chiragnigam06/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/chiragnigam06/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chiragnigam06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/chiragnigam06/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Binary Search
 |  |
 | ------- |
