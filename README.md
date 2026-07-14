@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chiragnigam06/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/chiragnigam06/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/chiragnigam06/LeetCode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/chiragnigam06/LeetCode/tree/master/0039-combination-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chiragnigam06/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chiragnigam06/LeetCode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/chiragnigam06/LeetCode/tree/master/0039-combination-sum) |
 ## String Matching
 |  |
 | ------- |
