@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/chiragnigam06/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/chiragnigam06/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/chiragnigam06/LeetCode/tree/master/0040-combination-sum-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chiragnigam06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chiragnigam06/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chiragnigam06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/chiragnigam06/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chiragnigam06/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chiragnigam06/LeetCode/tree/master/0018-4sum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chiragnigam06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chiragnigam06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chiragnigam06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chiragnigam06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
