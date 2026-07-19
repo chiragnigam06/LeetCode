@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/chiragnigam06/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/chiragnigam06/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/chiragnigam06/LeetCode/tree/master/0058-length-of-last-word) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/chiragnigam06/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/chiragnigam06/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chiragnigam06/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/chiragnigam06/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -159,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chiragnigam06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/chiragnigam06/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/chiragnigam06/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
