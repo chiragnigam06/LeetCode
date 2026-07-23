@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/chiragnigam06/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/chiragnigam06/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/chiragnigam06/LeetCode/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/chiragnigam06/LeetCode/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chiragnigam06/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/chiragnigam06/LeetCode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/chiragnigam06/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chiragnigam06/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/chiragnigam06/LeetCode/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/chiragnigam06/LeetCode/tree/master/0148-sort-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chiragnigam06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/chiragnigam06/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chiragnigam06/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chiragnigam06/LeetCode/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/chiragnigam06/LeetCode/tree/master/0148-sort-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chiragnigam06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chiragnigam06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
@@ -180,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chiragnigam06/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/chiragnigam06/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
