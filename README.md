@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/chiragnigam06/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/chiragnigam06/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/chiragnigam06/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/chiragnigam06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chiragnigam06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chiragnigam06/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chiragnigam06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/chiragnigam06/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/chiragnigam06/LeetCode/tree/master/0062-unique-paths) |
 | [0371-sum-of-two-integers](https://github.com/chiragnigam06/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/chiragnigam06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chiragnigam06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/chiragnigam06/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chiragnigam06/LeetCode/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/chiragnigam06/LeetCode/tree/master/0148-sort-list) |
+| [0628-maximum-product-of-three-numbers](https://github.com/chiragnigam06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chiragnigam06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chiragnigam06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
