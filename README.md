@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/chiragnigam06/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/chiragnigam06/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/chiragnigam06/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/chiragnigam06/LeetCode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chiragnigam06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chiragnigam06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chiragnigam06/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/chiragnigam06/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/chiragnigam06/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/chiragnigam06/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/chiragnigam06/LeetCode/tree/master/0066-plus-one) |
 | [0371-sum-of-two-integers](https://github.com/chiragnigam06/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chiragnigam06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chiragnigam06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
