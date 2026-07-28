@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/chiragnigam06/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/chiragnigam06/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/chiragnigam06/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/chiragnigam06/LeetCode/tree/master/0067-add-binary) |
 | [0371-sum-of-two-integers](https://github.com/chiragnigam06/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chiragnigam06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chiragnigam06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/chiragnigam06/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/chiragnigam06/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/chiragnigam06/LeetCode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/chiragnigam06/LeetCode/tree/master/0067-add-binary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chiragnigam06/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/chiragnigam06/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/chiragnigam06/LeetCode/tree/master/0067-add-binary) |
 | [0371-sum-of-two-integers](https://github.com/chiragnigam06/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Matrix
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/chiragnigam06/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/chiragnigam06/LeetCode/tree/master/0067-add-binary) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chiragnigam06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
