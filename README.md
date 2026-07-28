@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/chiragnigam06/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/chiragnigam06/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/chiragnigam06/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/chiragnigam06/LeetCode/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/chiragnigam06/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chiragnigam06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chiragnigam06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/chiragnigam06/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chiragnigam06/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/chiragnigam06/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/chiragnigam06/LeetCode/tree/master/0069-sqrtx) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chiragnigam06/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
