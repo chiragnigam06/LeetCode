@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/chiragnigam06/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/chiragnigam06/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chiragnigam06/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0486-predict-the-winner](https://github.com/chiragnigam06/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chiragnigam06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chiragnigam06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chiragnigam06/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/chiragnigam06/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/chiragnigam06/LeetCode/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/chiragnigam06/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/chiragnigam06/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chiragnigam06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chiragnigam06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/chiragnigam06/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/chiragnigam06/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/chiragnigam06/LeetCode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/chiragnigam06/LeetCode/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/chiragnigam06/LeetCode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/chiragnigam06/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/chiragnigam06/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0486-predict-the-winner](https://github.com/chiragnigam06/LeetCode/tree/master/0486-predict-the-winner) |
 ## Trie
 |  |
 | ------- |
@@ -227,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chiragnigam06/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/chiragnigam06/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
