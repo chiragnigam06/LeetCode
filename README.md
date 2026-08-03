@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/chiragnigam06/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chiragnigam06/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chiragnigam06/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/chiragnigam06/LeetCode/tree/master/0120-triangle) |
 | [0486-predict-the-winner](https://github.com/chiragnigam06/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chiragnigam06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/chiragnigam06/LeetCode/tree/master/0877-stone-game) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/chiragnigam06/LeetCode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/chiragnigam06/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/chiragnigam06/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/chiragnigam06/LeetCode/tree/master/0120-triangle) |
 | [0486-predict-the-winner](https://github.com/chiragnigam06/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/chiragnigam06/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/chiragnigam06/LeetCode/tree/master/1406-stone-game-iii) |
