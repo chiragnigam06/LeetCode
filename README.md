@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/chiragnigam06/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/chiragnigam06/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/chiragnigam06/LeetCode/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/chiragnigam06/LeetCode/tree/master/0141-linked-list-cycle) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chiragnigam06/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chiragnigam06/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/chiragnigam06/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/chiragnigam06/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/chiragnigam06/LeetCode/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/chiragnigam06/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/chiragnigam06/LeetCode/tree/master/0148-sort-list) |
 ## Math
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/chiragnigam06/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/chiragnigam06/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/chiragnigam06/LeetCode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/chiragnigam06/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/chiragnigam06/LeetCode/tree/master/0148-sort-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chiragnigam06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chiragnigam06/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/chiragnigam06/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
