@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/chiragnigam06/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/chiragnigam06/LeetCode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/chiragnigam06/LeetCode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/chiragnigam06/LeetCode/tree/master/0137-single-number-ii) |
 | [0486-predict-the-winner](https://github.com/chiragnigam06/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chiragnigam06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/chiragnigam06/LeetCode/tree/master/0877-stone-game) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/chiragnigam06/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/chiragnigam06/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/chiragnigam06/LeetCode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/chiragnigam06/LeetCode/tree/master/0137-single-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/chiragnigam06/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Matrix
 |  |
