@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chiragnigam06/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chiragnigam06/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/chiragnigam06/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/chiragnigam06/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/chiragnigam06/LeetCode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/chiragnigam06/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/chiragnigam06/LeetCode/tree/master/0137-single-number-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/chiragnigam06/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/chiragnigam06/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/chiragnigam06/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/chiragnigam06/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/chiragnigam06/LeetCode/tree/master/0120-triangle) |
 | [0486-predict-the-winner](https://github.com/chiragnigam06/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/chiragnigam06/LeetCode/tree/master/0877-stone-game) |
