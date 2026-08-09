@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/chiragnigam06/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/chiragnigam06/LeetCode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/chiragnigam06/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0166-fraction-to-recurring-decimal](https://github.com/chiragnigam06/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chiragnigam06/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chiragnigam06/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chiragnigam06/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/chiragnigam06/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/chiragnigam06/LeetCode/tree/master/0069-sqrtx) |
+| [0166-fraction-to-recurring-decimal](https://github.com/chiragnigam06/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0371-sum-of-two-integers](https://github.com/chiragnigam06/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/chiragnigam06/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chiragnigam06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/chiragnigam06/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/chiragnigam06/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/chiragnigam06/LeetCode/tree/master/0125-valid-palindrome) |
+| [0166-fraction-to-recurring-decimal](https://github.com/chiragnigam06/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chiragnigam06/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chiragnigam06/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
