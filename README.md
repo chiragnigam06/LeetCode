@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/chiragnigam06/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/chiragnigam06/LeetCode/tree/master/1145-binary-tree-coloring-game) |
 | [3310-remove-methods-from-project](https://github.com/chiragnigam06/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -315,9 +316,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/chiragnigam06/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/chiragnigam06/LeetCode/tree/master/1145-binary-tree-coloring-game) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/chiragnigam06/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/chiragnigam06/LeetCode/tree/master/1145-binary-tree-coloring-game) |
 <!---LeetCode Topics End-->
